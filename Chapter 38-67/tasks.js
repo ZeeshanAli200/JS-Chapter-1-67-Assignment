@@ -350,8 +350,8 @@
 
 //iii
 
-// the inner html content is already displayed in html Code the ques is not clear to me
-// console.log(ren)
+// console.log(this.document.getElementsByClassName("render"));
+
 
 //iv
 
